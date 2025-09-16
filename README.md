@@ -29,8 +29,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/marcusha429/Leetcode-Problem/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/marcusha429/Leetcode-Problem/tree/master/0392-is-subsequence) |
+| [1297-maximum-number-of-balloons](https://github.com/marcusha429/Leetcode-Problem/tree/master/1297-maximum-number-of-balloons) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/marcusha429/Leetcode-Problem/tree/master/0392-is-subsequence) |
+## Hash Table
+|  |
+| ------- |
+| [1297-maximum-number-of-balloons](https://github.com/marcusha429/Leetcode-Problem/tree/master/1297-maximum-number-of-balloons) |
+## Counting
+|  |
+| ------- |
+| [1297-maximum-number-of-balloons](https://github.com/marcusha429/Leetcode-Problem/tree/master/1297-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
