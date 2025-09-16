@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/marcusha429/Leetcode-Problem/tree/master/1019-squares-of-a-sorted-array) |
+| [1098-largest-unique-number](https://github.com/marcusha429/Leetcode-Problem/tree/master/1098-largest-unique-number) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/marcusha429/Leetcode-Problem/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/marcusha429/Leetcode-Problem/tree/master/1603-running-sum-of-1d-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/marcusha429/Leetcode-Problem/tree/master/2358-number-of-ways-to-split-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/marcusha429/Leetcode-Problem/tree/master/1019-squares-of-a-sorted-array) |
+| [1098-largest-unique-number](https://github.com/marcusha429/Leetcode-Problem/tree/master/1098-largest-unique-number) |
 ## String
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1098-largest-unique-number](https://github.com/marcusha429/Leetcode-Problem/tree/master/1098-largest-unique-number) |
 | [1297-maximum-number-of-balloons](https://github.com/marcusha429/Leetcode-Problem/tree/master/1297-maximum-number-of-balloons) |
 ## Counting
 |  |
