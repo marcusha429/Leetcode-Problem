@@ -6,7 +6,7 @@ class Solution:
         middle_avg = k
         #instantly put -1 for this condition
         if window_len > len(nums):
-            return [-1]*len(nums)
+            return ans
 
         for i in range(window_len):
             prefix_sum += nums[i]
