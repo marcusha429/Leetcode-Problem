@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/marcusha429/Leetcode-Problem/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/marcusha429/Leetcode-Problem/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/marcusha429/Leetcode-Problem/tree/master/0392-is-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/marcusha429/Leetcode-Problem/tree/master/1297-maximum-number-of-balloons) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/marcusha429/Leetcode-Problem/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/marcusha429/Leetcode-Problem/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/marcusha429/Leetcode-Problem/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/marcusha429/Leetcode-Problem/tree/master/0205-isomorphic-strings) |
 | [1098-largest-unique-number](https://github.com/marcusha429/Leetcode-Problem/tree/master/1098-largest-unique-number) |
 | [1297-maximum-number-of-balloons](https://github.com/marcusha429/Leetcode-Problem/tree/master/1297-maximum-number-of-balloons) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/marcusha429/Leetcode-Problem/tree/master/1960-check-if-the-sentence-is-pangram) |
