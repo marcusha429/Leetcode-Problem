@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/marcusha429/Leetcode-Problem/tree/master/0169-majority-element) |
 | [1019-squares-of-a-sorted-array](https://github.com/marcusha429/Leetcode-Problem/tree/master/1019-squares-of-a-sorted-array) |
 | [1098-largest-unique-number](https://github.com/marcusha429/Leetcode-Problem/tree/master/1098-largest-unique-number) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/marcusha429/Leetcode-Problem/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/marcusha429/Leetcode-Problem/tree/master/0169-majority-element) |
 | [1019-squares-of-a-sorted-array](https://github.com/marcusha429/Leetcode-Problem/tree/master/1019-squares-of-a-sorted-array) |
 | [1098-largest-unique-number](https://github.com/marcusha429/Leetcode-Problem/tree/master/1098-largest-unique-number) |
 ## String
@@ -43,12 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/marcusha429/Leetcode-Problem/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/marcusha429/Leetcode-Problem/tree/master/0169-majority-element) |
 | [1098-largest-unique-number](https://github.com/marcusha429/Leetcode-Problem/tree/master/1098-largest-unique-number) |
 | [1297-maximum-number-of-balloons](https://github.com/marcusha429/Leetcode-Problem/tree/master/1297-maximum-number-of-balloons) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/marcusha429/Leetcode-Problem/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/marcusha429/Leetcode-Problem/tree/master/0169-majority-element) |
 | [1297-maximum-number-of-balloons](https://github.com/marcusha429/Leetcode-Problem/tree/master/1297-maximum-number-of-balloons) |
 ## Sliding Window
 |  |
@@ -58,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/marcusha429/Leetcode-Problem/tree/master/0141-linked-list-cycle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/marcusha429/Leetcode-Problem/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
