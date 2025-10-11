@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/marcusha429/Leetcode-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/marcusha429/Leetcode-Problem/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/marcusha429/Leetcode-Problem/tree/master/0392-is-subsequence) |
+| [0409-longest-palindrome](https://github.com/marcusha429/Leetcode-Problem/tree/master/0409-longest-palindrome) |
 | [1297-maximum-number-of-balloons](https://github.com/marcusha429/Leetcode-Problem/tree/master/1297-maximum-number-of-balloons) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/marcusha429/Leetcode-Problem/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Dynamic Programming
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/marcusha429/Leetcode-Problem/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/marcusha429/Leetcode-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/marcusha429/Leetcode-Problem/tree/master/0389-find-the-difference) |
+| [0409-longest-palindrome](https://github.com/marcusha429/Leetcode-Problem/tree/master/0409-longest-palindrome) |
 | [1098-largest-unique-number](https://github.com/marcusha429/Leetcode-Problem/tree/master/1098-largest-unique-number) |
 | [1297-maximum-number-of-balloons](https://github.com/marcusha429/Leetcode-Problem/tree/master/1297-maximum-number-of-balloons) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/marcusha429/Leetcode-Problem/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/marcusha429/Leetcode-Problem/tree/master/0389-find-the-difference) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/marcusha429/Leetcode-Problem/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
