@@ -7,7 +7,9 @@ class Solution:
                 smaller_element = stack.pop()
                 hashmap[smaller_element] = num2
             stack.append(num2)
-        
-        return [hashmap.get(num1, -1) for num1 in nums1]
+        ans = []
+        for num1 in nums1:
+            ans.append(hashmap.get(num1, -1))
+        return ans
 
             
