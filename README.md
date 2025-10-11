@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/marcusha429/Leetcode-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/marcusha429/Leetcode-Problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/marcusha429/Leetcode-Problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/marcusha429/Leetcode-Problem/tree/master/0496-next-greater-element-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/marcusha429/Leetcode-Problem/tree/master/1019-squares-of-a-sorted-array) |
 | [1098-largest-unique-number](https://github.com/marcusha429/Leetcode-Problem/tree/master/1098-largest-unique-number) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/marcusha429/Leetcode-Problem/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/marcusha429/Leetcode-Problem/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/marcusha429/Leetcode-Problem/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/marcusha429/Leetcode-Problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/marcusha429/Leetcode-Problem/tree/master/0496-next-greater-element-i) |
 | [1098-largest-unique-number](https://github.com/marcusha429/Leetcode-Problem/tree/master/1098-largest-unique-number) |
 | [1297-maximum-number-of-balloons](https://github.com/marcusha429/Leetcode-Problem/tree/master/1297-maximum-number-of-balloons) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/marcusha429/Leetcode-Problem/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -123,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/marcusha429/Leetcode-Problem/tree/master/0409-longest-palindrome) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/marcusha429/Leetcode-Problem/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/marcusha429/Leetcode-Problem/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
