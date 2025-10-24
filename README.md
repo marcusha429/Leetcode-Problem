@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/marcusha429/Leetcode-Problem/tree/master/0046-permutations) |
 | [0169-majority-element](https://github.com/marcusha429/Leetcode-Problem/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/marcusha429/Leetcode-Problem/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/marcusha429/Leetcode-Problem/tree/master/0349-intersection-of-two-arrays) |
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/marcusha429/Leetcode-Problem/tree/master/0496-next-greater-element-i) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/marcusha429/Leetcode-Problem/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
